@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Text extraction is the process of automatically extracting text from images or documents. Optical Character Recognition (OCR) is a technology that enables computers to convert images of text into machine-readable text. In this tutorial, we'll explore how to perform text extraction using OCR with OpenCV, a popular computer vision library in Python.
+Text extraction is the process of automatically extracting text from images or documents. Optical Character Recognition (OCR) is a technology that enables computers to convert images of text into machine-readable text. In this, we'll explore how to perform text extraction using OCR with OpenCV, a popular computer vision library in Python.
 
 ### Why Use OCR for Text Extraction?
 
